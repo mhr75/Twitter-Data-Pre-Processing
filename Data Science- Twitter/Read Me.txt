@@ -1,0 +1,8 @@
+save the csv file in home directory, from where your code runs
+1. run datas.py
+2. run preprocessed1.py
+3. run preprocess2.py
+4. run preprocessed3.py
+
+yes, you did it nicely ^_^.
+thank you for your co-operation.
